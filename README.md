@@ -1,4 +1,6 @@
 Flutter Cookbook Activity
+![imagen](https://github.com/user-attachments/assets/8097df4d-9aa9-4378-aed9-c589ab22b274)
+
 Descripción
 
 Este proyecto es parte de una actividad del curso de Desarrollo de Aplicaciones Móviles en la Universidad Tecnológica de Machala (UTM). En esta actividad, estamos aprendiendo a usar Flutter para desarrollar aplicaciones móviles. El objetivo principal es familiarizarnos con las herramientas y componentes básicos de Flutter a través de ejemplos prácticos, cubriendo temas como la estructura de la aplicación, el manejo de estados, y la interacción con la interfaz de usuario.
